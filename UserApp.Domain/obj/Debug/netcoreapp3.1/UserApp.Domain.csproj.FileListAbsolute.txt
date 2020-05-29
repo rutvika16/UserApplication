@@ -1,0 +1,17 @@
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Domain.deps.json
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Domain.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Domain.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.BoundedContext.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Infrastructure.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.UnitOfWork.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.BoundedContext.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.UnitOfWork.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\bin\Debug\netcoreapp3.1\UserApp.Infrastructure.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.csprojAssemblyReference.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.AssemblyInfo.cs
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.csproj.CopyComplete
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Domain\obj\Debug\netcoreapp3.1\UserApp.Domain.pdb

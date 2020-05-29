@@ -1,0 +1,11 @@
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\bin\Debug\netcoreapp3.1\UserApp.BoundedContext.deps.json
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\bin\Debug\netcoreapp3.1\UserApp.BoundedContext.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\bin\Debug\netcoreapp3.1\UserApp.BoundedContext.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\bin\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\bin\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.csprojAssemblyReference.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.AssemblyInfoInputs.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.AssemblyInfo.cs
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.csproj.CopyComplete
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.BoundedContext\obj\Debug\netcoreapp3.1\UserApp.BoundedContext.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.deps.json
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\bin\Debug\netcoreapp3.1\UserApp.Models.pdb
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.csprojAssemblyReference.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.AssemblyInfoInputs.cache
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.AssemblyInfo.cs
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.dll
+C:\Users\Hp-Pc\source\repos\UserApp\UserApp.Models\obj\Debug\netcoreapp3.1\UserApp.Models.pdb
